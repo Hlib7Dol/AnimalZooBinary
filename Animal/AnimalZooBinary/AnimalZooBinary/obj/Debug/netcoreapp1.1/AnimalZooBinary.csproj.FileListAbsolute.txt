@@ -1,0 +1,9 @@
+E:\Study\Learb\Animal\AnimalZooBinary\AnimalZooBinary\bin\Debug\netcoreapp1.1\AnimalZooBinary.deps.json
+E:\Study\Learb\Animal\AnimalZooBinary\AnimalZooBinary\bin\Debug\netcoreapp1.1\AnimalZooBinary.runtimeconfig.json
+E:\Study\Learb\Animal\AnimalZooBinary\AnimalZooBinary\bin\Debug\netcoreapp1.1\AnimalZooBinary.runtimeconfig.dev.json
+E:\Study\Learb\Animal\AnimalZooBinary\AnimalZooBinary\bin\Debug\netcoreapp1.1\AnimalZooBinary.dll
+E:\Study\Learb\Animal\AnimalZooBinary\AnimalZooBinary\bin\Debug\netcoreapp1.1\AnimalZooBinary.pdb
+E:\Study\Learb\Animal\AnimalZooBinary\AnimalZooBinary\obj\Debug\netcoreapp1.1\AnimalZooBinary.csprojResolveAssemblyReference.cache
+E:\Study\Learb\Animal\AnimalZooBinary\AnimalZooBinary\obj\Debug\netcoreapp1.1\AnimalZooBinary.AssemblyInfo.cs
+E:\Study\Learb\Animal\AnimalZooBinary\AnimalZooBinary\obj\Debug\netcoreapp1.1\AnimalZooBinary.dll
+E:\Study\Learb\Animal\AnimalZooBinary\AnimalZooBinary\obj\Debug\netcoreapp1.1\AnimalZooBinary.pdb
