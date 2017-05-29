@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Study\\Learb\\Animal\\AnimalZooBinary\\AnimalZooBinary\\AnimalZooBinary.csproj",
+      "projectUniqueName": "E:\\Code\\BinaryStudio\\AnimalZooBinary\\Animal\\AnimalZooBinary\\AnimalZooBinary\\AnimalZooBinary.csproj",
       "projectName": "AnimalZooBinary",
-      "projectPath": "E:\\Study\\Learb\\Animal\\AnimalZooBinary\\AnimalZooBinary\\AnimalZooBinary.csproj",
-      "outputPath": "E:\\Study\\Learb\\Animal\\AnimalZooBinary\\AnimalZooBinary\\obj\\",
+      "projectPath": "E:\\Code\\BinaryStudio\\AnimalZooBinary\\Animal\\AnimalZooBinary\\AnimalZooBinary\\AnimalZooBinary.csproj",
+      "outputPath": "E:\\Code\\BinaryStudio\\AnimalZooBinary\\Animal\\AnimalZooBinary\\AnimalZooBinary\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

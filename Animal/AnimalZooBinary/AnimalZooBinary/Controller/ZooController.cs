@@ -9,10 +9,12 @@ namespace AnimalZooBinary.Controller
     internal class ZooController
     {
         private List<BaseAnimal> _animals = null;
+        private FindBy _groupOrFind = null;
 
         internal ZooController()
         {
             _animals = new List<BaseAnimal>();
+            _groupOrFind = new FindBy();
         }
 
         internal void ChangeAnimalState()
@@ -91,6 +93,33 @@ namespace AnimalZooBinary.Controller
             _animals.Remove(animal);
 
             return "Success, you have removed " + name;
+        }
+
+        internal void GroupOrFindAnimals(string param)
+        {
+            try
+            {
+                var @params = param.Split(' ');
+
+                switch (@params[0])
+                {
+                    case "1": _groupOrFind.GroupByType(_animals); break;
+                    case "2": _groupOrFind.FindByState((AnimalStateEnum)Enum.Parse(typeof(AnimalStateEnum), @params[1]), _animals); break;
+                    case "3": _groupOrFind.FindSickTigers(_animals); break;
+                    case "4": _groupOrFind.FindElephantByName(@params[1], _animals); break;
+                    case "5": _groupOrFind.FindAllWhichAreHungry(_animals); break;
+                    case "6": _groupOrFind.MaxHealth(_animals); break;
+                    case "7": _groupOrFind.FindAllDead(_animals); break;
+                    case "8": _groupOrFind.FindWolfsAndBears(_animals); break;
+                    case "9": _groupOrFind.FindMinMaxHealth(_animals); break;
+                    case "10": _groupOrFind.FindAvarageHealthInZoo(_animals); break;
+                    default: Console.WriteLine("Sorry, wrong params"); break;
+                }
+            }
+            catch
+            {
+                Console.WriteLine("Something went wrong, try again please");
+            }
         }
     }
 }

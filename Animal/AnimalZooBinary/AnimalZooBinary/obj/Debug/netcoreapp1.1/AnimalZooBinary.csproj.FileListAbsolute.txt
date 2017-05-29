@@ -7,3 +7,11 @@ E:\Study\Learb\Animal\AnimalZooBinary\AnimalZooBinary\obj\Debug\netcoreapp1.1\An
 E:\Study\Learb\Animal\AnimalZooBinary\AnimalZooBinary\obj\Debug\netcoreapp1.1\AnimalZooBinary.AssemblyInfo.cs
 E:\Study\Learb\Animal\AnimalZooBinary\AnimalZooBinary\obj\Debug\netcoreapp1.1\AnimalZooBinary.dll
 E:\Study\Learb\Animal\AnimalZooBinary\AnimalZooBinary\obj\Debug\netcoreapp1.1\AnimalZooBinary.pdb
+E:\Code\BinaryStudio\AnimalZooBinary\Animal\AnimalZooBinary\AnimalZooBinary\bin\Debug\netcoreapp1.1\AnimalZooBinary.deps.json
+E:\Code\BinaryStudio\AnimalZooBinary\Animal\AnimalZooBinary\AnimalZooBinary\bin\Debug\netcoreapp1.1\AnimalZooBinary.runtimeconfig.json
+E:\Code\BinaryStudio\AnimalZooBinary\Animal\AnimalZooBinary\AnimalZooBinary\bin\Debug\netcoreapp1.1\AnimalZooBinary.runtimeconfig.dev.json
+E:\Code\BinaryStudio\AnimalZooBinary\Animal\AnimalZooBinary\AnimalZooBinary\obj\Debug\netcoreapp1.1\AnimalZooBinary.AssemblyInfo.cs
+E:\Code\BinaryStudio\AnimalZooBinary\Animal\AnimalZooBinary\AnimalZooBinary\obj\Debug\netcoreapp1.1\AnimalZooBinary.dll
+E:\Code\BinaryStudio\AnimalZooBinary\Animal\AnimalZooBinary\AnimalZooBinary\obj\Debug\netcoreapp1.1\AnimalZooBinary.pdb
+E:\Code\BinaryStudio\AnimalZooBinary\Animal\AnimalZooBinary\AnimalZooBinary\bin\Debug\netcoreapp1.1\AnimalZooBinary.dll
+E:\Code\BinaryStudio\AnimalZooBinary\Animal\AnimalZooBinary\AnimalZooBinary\bin\Debug\netcoreapp1.1\AnimalZooBinary.pdb

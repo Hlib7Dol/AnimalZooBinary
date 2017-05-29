@@ -13,6 +13,8 @@ namespace AnimalZooBinary.Animals
             Name = name;
 
             Health = _maxHealth;
+
+            AnimalType = "Fox";
         }
 
         internal override void IncreaseHealth()

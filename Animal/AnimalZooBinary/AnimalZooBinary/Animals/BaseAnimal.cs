@@ -9,6 +9,7 @@ namespace AnimalZooBinary.Animals
     {
         protected virtual string Name { get; set; }
         protected virtual int Health { get; set; }
+        protected virtual string AnimalType { get; set; }
         protected virtual AnimalStateEnum AnimalState { get; set; }
 
         internal BaseAnimal()
@@ -19,6 +20,16 @@ namespace AnimalZooBinary.Animals
         internal virtual string GetAnimalName()
         {
             return Name;
+        }
+
+        internal virtual int GetAnimalHealth()
+        {
+            return Health;
+        }
+
+        internal virtual string GetAnimalType()
+        {
+            return AnimalType;
         }
 
         internal virtual void FeedAnimal()

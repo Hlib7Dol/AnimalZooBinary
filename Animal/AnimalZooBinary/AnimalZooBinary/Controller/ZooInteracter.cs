@@ -41,6 +41,11 @@ namespace AnimalZooBinary.Controller
             return _controller.DeleteAnimal(name);
         }
 
+        internal void FindOrGroupAnimals(string name)
+        {
+            _controller.GroupOrFindAnimals(name);
+        }
+
         private void CreateTimer()
         {
             TimerCallback tm = new TimerCallback(AnimalTimerCallBack);
